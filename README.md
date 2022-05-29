@@ -4,7 +4,7 @@ Livros de receitas  para o almoço de domingo.
 
 ## Panqueca de Frango :chicken:
 
-	### Ingredientes 
+### Ingredientes
 
 ​	**Massa:**
 
@@ -34,7 +34,7 @@ Livros de receitas  para o almoço de domingo.
 
 - pimenta, sal e salsinha a gosto 
 
-  ### Modo de preparo
+ ### Modo de preparo
 
   
 
